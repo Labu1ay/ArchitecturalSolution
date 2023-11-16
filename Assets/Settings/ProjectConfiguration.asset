@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de9b2120ba2495eb6bb07363cbf5a14, type: 3}
+  m_Name: ProjectConfiguration
+  m_EditorClassIdentifier: 
+  _languages: 010000000200000003000000
+  _scenarios:
+  - NameScenario: Manuscripta
+    Enviroment: {fileID: 7677808055020805901, guid: f6bda321e22fd22459d6db0488036870, type: 3}
+    Data:
+    - Key: ijkjuhjhu
+      Number: 898
+    - Key: ijkjuhjhu
+      Number: 898
+    - Key: ijkjuhjhu
+      Number: 898
+    - Key: ijkjuhjhu
+      Number: 898
+    - Key: ijkjuhjhu
+      Number: 898
+    - Key: ijkjuhjhu
+      Number: 898
+    - Key: ijkjuhjhu
+      Number: 898
+  - NameScenario: Inscriptor
+    Enviroment: {fileID: 0}
+    Data:
+    - Key: ikjiukjkjij
+      Number: 777
+    - Key: ikjiukjkjij
+      Number: 777
+    - Key: ikjiukjkjij
+      Number: 777
+    - Key: ikjiukjkjij
+      Number: 777
+    - Key: ikjiukjkjij
+      Number: 777
+    - Key: ikjiukjkjij
+      Number: 777
+  - NameScenario: Lexiscribe
+    Enviroment: {fileID: 7677808055020805901, guid: f6bda321e22fd22459d6db0488036870, type: 3}
+    Data:
+    - Key: okkjuhygtfb
+      Number: 667
+    - Key: okkjuhygtfb
+      Number: 667
+    - Key: okkjuhygtfb
+      Number: 667
+    - Key: okkjuhygtfb
+      Number: 667
+    - Key: okkjuhygtfb
+      Number: 667
+    - Key: okkjuhygtfb
+      Number: 667
+    - Key: okkjuhygtfb
+      Number: 667
+    - Key: okkjuhygtfb
+      Number: 667
+    - Key: okkjuhygtfb
+      Number: 667
+  - NameScenario: Scriptorama
+    Enviroment: {fileID: 0}
+    Data:
+    - Key: kjuhnbgvfc
+      Number: 111
+    - Key: kjuhnbgvfc
+      Number: 111
+    - Key: kjuhnbgvfc
+      Number: 111
+    - Key: kjuhnbgvfc
+      Number: 111
+    - Key: kjuhnbgvfc
+      Number: 111
+    - Key: kjuhnbgvfc
+      Number: 111
+    - Key: kjuhnbgvfc
+      Number: 111
+    - Key: kjuhnbgvfc
+      Number: 111
