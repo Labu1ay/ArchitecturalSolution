@@ -11,7 +11,7 @@ public class MenuController : MonoBehaviour {
 
             AllServices services = AllServices.Container;
             
-            services.Single<ISceneLoader>().Load(Constants.SceneName, () => {
+            services.Single<ISceneLoader>().Load(Constants.GameName, () => {
                 services.Single<IAsset>().Instantiate(MyPath.ScenarioUI);
             });            
         });

@@ -15,7 +15,11 @@ MonoBehaviour:
   _languages: 010000000200000003000000
   _scenarios:
   - NameScenario: Manuscripta
-    Enviroment: {fileID: 7677808055020805901, guid: f6bda321e22fd22459d6db0488036870, type: 3}
+    Enviroment:
+      m_AssetGUID: f6bda321e22fd22459d6db0488036870
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
     Data:
     - Key: ijkjuhjhu
       Number: 898
@@ -32,7 +36,11 @@ MonoBehaviour:
     - Key: ijkjuhjhu
       Number: 898
   - NameScenario: Inscriptor
-    Enviroment: {fileID: 0}
+    Enviroment:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
     Data:
     - Key: ikjiukjkjij
       Number: 777
@@ -47,7 +55,11 @@ MonoBehaviour:
     - Key: ikjiukjkjij
       Number: 777
   - NameScenario: Lexiscribe
-    Enviroment: {fileID: 7677808055020805901, guid: f6bda321e22fd22459d6db0488036870, type: 3}
+    Enviroment:
+      m_AssetGUID: 12fa1a70c1f161d488bf11ecb4d2a3cd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
     Data:
     - Key: okkjuhygtfb
       Number: 667
@@ -68,7 +80,11 @@ MonoBehaviour:
     - Key: okkjuhygtfb
       Number: 667
   - NameScenario: Scriptorama
-    Enviroment: {fileID: 0}
+    Enviroment:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
     Data:
     - Key: kjuhnbgvfc
       Number: 111

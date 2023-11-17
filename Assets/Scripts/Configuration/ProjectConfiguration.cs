@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
 
 [CreateAssetMenu(fileName = "ProjectConfiguration", menuName = "Configuration", order = 0)]
 public class ProjectConfiguration : ScriptableObject {
@@ -14,7 +15,7 @@ public class ProjectConfiguration : ScriptableObject {
 [Serializable]
 public class Scenario {
     public string NameScenario;
-    public GameObject Enviroment;
+    public AssetReferenceGameObject Enviroment;
     public Data[] Data;
 }
 
@@ -23,14 +24,3 @@ public struct Data {
     public string Key;
     public int Number;
 }
-
-// Manuscripta
-//     Inscriptor
-// Lexiscribe
-//     Scriptorama
-// Calligraphix
-//     Wordweaver
-// Linguascript
-//     Penscribe
-// Typoquill
-//     Narratex
